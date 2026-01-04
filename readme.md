@@ -37,7 +37,7 @@ Definitions used in this project:
 
 ## **Notebook 1: Customer Lifecycle Entry Analysis**
 
-**Objective**
+## **Objective**
 
 The goal of this notebook was to understand how and when customers enter the business, and whether customer acquisition is flat, growing, or perhaps volatile over time.
 
@@ -98,11 +98,11 @@ This provided a baseline for early engagement and allows deeper analysis in Note
 
 ##  **Notebook 2: Early Engagement Intensity and Customer Trajectories**
 
-**Objective**
+## **Objective**
 
 In this notebook, I focused on how early engagement intensity shapes customer behavior during the first 30 days after entry.
 
-**Engagement Segmentation**
+## **Engagement Segmentation**
 
 I segmented customers based on the number of transactions they made in their first 30 days:
 
