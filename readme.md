@@ -24,7 +24,7 @@ Throughout this project, I focused on answering the following questions:
 ## **Dataset**
 
 I used the Credit Card Transactions Dataset from Kaggle (priyamchoksi/credit-card-transactions-dataset).
-This is the same dataset I used in my Consumer Behavior — Spending Analysis project, but here I approached it from a lifecycle and engagement perspective.
+This is the same dataset I used in my Consumer Behavior - Spending Analysis project, but here I approached it from a lifecycle and engagement perspective.
 
 Definitions used in this project:
 
