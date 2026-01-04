@@ -152,10 +152,10 @@ From this chart, I observed that:
 
 ## **Key Insights**
 
-Customer acquisition is heavily front loaded in the dataset
+- Customer acquisition is heavily front loaded in the dataset
 
-Most transaction volume comes from returning customers
+- Most transaction volume comes from returning customers
 
-Early engagement intensity strongly predicts short term behavioral momentum
+- Early engagement intensity strongly predicts short term behavioral momentum
 
-Customers who engage heavily in their first few days tend to remain active, while moderate engagement customers disengage quickly
+- Customers who engage heavily in their first few days tend to remain active, while moderate engagement customers disengage quickly
